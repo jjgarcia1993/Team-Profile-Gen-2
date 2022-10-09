@@ -1,0 +1,23 @@
+{
+  "name": "m10.2",
+  "version": "1.0.0",
+  "description": "Application for creating a team profile generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjgarcia1993/Team-Profile-Gen-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjgarcia1993/Team-Profile-Gen-2/issues"
+  },
+  "homepage": "https://github.com/jjgarcia1993/Team-Profile-Gen-2#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.1.2"
+  }
+}
